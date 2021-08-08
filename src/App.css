@@ -3,3 +3,7 @@
   border-radius: 5px;
   padding: 20px;
 }
+
+.responsive-headline {
+  width: 65%;
+}
