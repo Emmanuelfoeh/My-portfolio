@@ -42,7 +42,10 @@ const Contact = ({ data }) => {
       </div>
 
       <div className="row">
-        <div className="eight columns">
+        <div>
+          <span>Email: foehemmanuel@gmail.com</span>
+        </div>
+        {/* <div className="eight columns">
           <form onSubmit={submitForm}>
             <fieldset>
               <div>
@@ -110,14 +113,14 @@ const Contact = ({ data }) => {
             </fieldset>
           </form>
 
-          <div id="message-warning"> Error boy</div>
+          <div id="message-warning"> Please fill all required fill</div>
           <div id="message-success">
             <i className="fa fa-check"></i>Your message was sent, thank you!
             <br />
           </div>
-        </div>
+        </div> */}
 
-        <aside className="four columns footer-widgets">
+        {/* <aside className="four columns footer-widgets">
           <div className="widget widget_contact">
             <h4>Address and Phone</h4>
             <p className="address">
@@ -132,7 +135,7 @@ const Contact = ({ data }) => {
               <span>{phone}</span>
             </p>
           </div>
-        </aside>
+        </aside> */}
       </div>
     </section>
   );
