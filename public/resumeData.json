@@ -93,8 +93,14 @@
       {
         "title": "Dictionary-App",
         "category": "React Project",
-        "image": "",
+        "image": "dictionary-app.png",
         "url": "https://emmanuel-foeh-dictionary-app.netlify.app/"
+      },
+      {
+        "title": "Easy-banking-landing-page",
+        "category": "React Project",
+        "image": "easybankpage.png",
+        "url": "https://easy-banking-landing-page.netlify.app/"
       }
     ]
   },
